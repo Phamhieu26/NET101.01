@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI10_OOP\bin\Debug\BAI10_OOP.exe.config
+F:\Net_C\NET101\BAI10_OOP\bin\Debug\BAI10_OOP.exe
+F:\Net_C\NET101\BAI10_OOP\bin\Debug\BAI10_OOP.pdb
+F:\Net_C\NET101\BAI10_OOP\obj\Debug\BAI10_OOP.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI10_OOP\obj\Debug\BAI10_OOP.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI10_OOP\obj\Debug\BAI10_OOP.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI10_OOP\obj\Debug\BAI10_OOP.exe
+F:\Net_C\NET101\BAI10_OOP\obj\Debug\BAI10_OOP.pdb

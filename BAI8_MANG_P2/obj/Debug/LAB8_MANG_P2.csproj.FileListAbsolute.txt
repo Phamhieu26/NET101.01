@@ -1,0 +1,8 @@
+F:\Net_C\NET101\LAB8_MANG_P2\bin\Debug\LAB8_MANG_P2.exe.config
+F:\Net_C\NET101\LAB8_MANG_P2\bin\Debug\LAB8_MANG_P2.exe
+F:\Net_C\NET101\LAB8_MANG_P2\bin\Debug\LAB8_MANG_P2.pdb
+F:\Net_C\NET101\LAB8_MANG_P2\obj\Debug\LAB8_MANG_P2.csproj.AssemblyReference.cache
+F:\Net_C\NET101\LAB8_MANG_P2\obj\Debug\LAB8_MANG_P2.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\LAB8_MANG_P2\obj\Debug\LAB8_MANG_P2.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\LAB8_MANG_P2\obj\Debug\LAB8_MANG_P2.exe
+F:\Net_C\NET101\LAB8_MANG_P2\obj\Debug\LAB8_MANG_P2.pdb

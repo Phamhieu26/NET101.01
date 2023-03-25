@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI7_MANG\bin\Debug\BAI7_MANG.exe.config
+F:\Net_C\NET101\BAI7_MANG\bin\Debug\BAI7_MANG.exe
+F:\Net_C\NET101\BAI7_MANG\bin\Debug\BAI7_MANG.pdb
+F:\Net_C\NET101\BAI7_MANG\obj\Debug\BAI7_MANG.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI7_MANG\obj\Debug\BAI7_MANG.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI7_MANG\obj\Debug\BAI7_MANG.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI7_MANG\obj\Debug\BAI7_MANG.exe
+F:\Net_C\NET101\BAI7_MANG\obj\Debug\BAI7_MANG.pdb
