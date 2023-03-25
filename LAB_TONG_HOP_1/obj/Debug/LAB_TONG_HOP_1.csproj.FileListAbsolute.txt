@@ -1,0 +1,8 @@
+F:\Net_C\NET101\LAB_TONG_HOP_1\bin\Debug\LAB_TONG_HOP_1.exe.config
+F:\Net_C\NET101\LAB_TONG_HOP_1\bin\Debug\LAB_TONG_HOP_1.exe
+F:\Net_C\NET101\LAB_TONG_HOP_1\bin\Debug\LAB_TONG_HOP_1.pdb
+F:\Net_C\NET101\LAB_TONG_HOP_1\obj\Debug\LAB_TONG_HOP_1.csproj.AssemblyReference.cache
+F:\Net_C\NET101\LAB_TONG_HOP_1\obj\Debug\LAB_TONG_HOP_1.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\LAB_TONG_HOP_1\obj\Debug\LAB_TONG_HOP_1.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\LAB_TONG_HOP_1\obj\Debug\LAB_TONG_HOP_1.exe
+F:\Net_C\NET101\LAB_TONG_HOP_1\obj\Debug\LAB_TONG_HOP_1.pdb

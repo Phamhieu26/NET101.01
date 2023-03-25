@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI_TAP_BUOI5\bin\Debug\BAI_TAP_BUOI5.exe.config
+F:\Net_C\NET101\BAI_TAP_BUOI5\bin\Debug\BAI_TAP_BUOI5.exe
+F:\Net_C\NET101\BAI_TAP_BUOI5\bin\Debug\BAI_TAP_BUOI5.pdb
+F:\Net_C\NET101\BAI_TAP_BUOI5\obj\Debug\BAI_TAP_BUOI5.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI_TAP_BUOI5\obj\Debug\BAI_TAP_BUOI5.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI_TAP_BUOI5\obj\Debug\BAI_TAP_BUOI5.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI_TAP_BUOI5\obj\Debug\BAI_TAP_BUOI5.exe
+F:\Net_C\NET101\BAI_TAP_BUOI5\obj\Debug\BAI_TAP_BUOI5.pdb
