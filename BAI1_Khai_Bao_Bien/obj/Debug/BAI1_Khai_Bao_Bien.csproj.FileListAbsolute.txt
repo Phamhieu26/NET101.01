@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\bin\Debug\BAI1_Khai_Bao_Bien.exe.config
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\bin\Debug\BAI1_Khai_Bao_Bien.exe
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\bin\Debug\BAI1_Khai_Bao_Bien.pdb
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\obj\Debug\BAI1_Khai_Bao_Bien.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\obj\Debug\BAI1_Khai_Bao_Bien.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\obj\Debug\BAI1_Khai_Bao_Bien.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\obj\Debug\BAI1_Khai_Bao_Bien.exe
+F:\Net_C\NET101\BAI1_Khai_Bao_Bien\obj\Debug\BAI1_Khai_Bao_Bien.pdb
