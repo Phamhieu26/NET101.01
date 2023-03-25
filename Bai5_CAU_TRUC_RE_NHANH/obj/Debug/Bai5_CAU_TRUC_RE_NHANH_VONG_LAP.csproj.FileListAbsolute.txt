@@ -1,0 +1,8 @@
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\bin\Debug\Bai5_CAU_TRUC_RE_NHANH.exe.config
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\bin\Debug\Bai5_CAU_TRUC_RE_NHANH.exe
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\bin\Debug\Bai5_CAU_TRUC_RE_NHANH.pdb
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\obj\Debug\Bai5_CAU_TRUC_RE_NHANH_VONG_LAP.csproj.AssemblyReference.cache
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\obj\Debug\Bai5_CAU_TRUC_RE_NHANH_VONG_LAP.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\obj\Debug\Bai5_CAU_TRUC_RE_NHANH_VONG_LAP.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\obj\Debug\Bai5_CAU_TRUC_RE_NHANH.exe
+F:\Net_C\NET101\Bai5_CAU_TRUC_RE_NHANH\obj\Debug\Bai5_CAU_TRUC_RE_NHANH.pdb

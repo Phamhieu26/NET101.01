@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\bin\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.exe.config
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\bin\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.exe
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\bin\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.pdb
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\obj\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\obj\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\obj\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\obj\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.exe
+F:\Net_C\NET101\BAI2_Nhap_Xuat_Va_Ep_Kieu\obj\Debug\BAI2_Nhap_Xuat_Va_Ep_Kieu.pdb

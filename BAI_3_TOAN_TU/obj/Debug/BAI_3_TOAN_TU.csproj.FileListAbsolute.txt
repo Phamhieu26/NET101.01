@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI_3_TOAN_TU\bin\Debug\BAI_3_TOAN_TU.exe.config
+F:\Net_C\NET101\BAI_3_TOAN_TU\bin\Debug\BAI_3_TOAN_TU.exe
+F:\Net_C\NET101\BAI_3_TOAN_TU\bin\Debug\BAI_3_TOAN_TU.pdb
+F:\Net_C\NET101\BAI_3_TOAN_TU\obj\Debug\BAI_3_TOAN_TU.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI_3_TOAN_TU\obj\Debug\BAI_3_TOAN_TU.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI_3_TOAN_TU\obj\Debug\BAI_3_TOAN_TU.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI_3_TOAN_TU\obj\Debug\BAI_3_TOAN_TU.exe
+F:\Net_C\NET101\BAI_3_TOAN_TU\obj\Debug\BAI_3_TOAN_TU.pdb

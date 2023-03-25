@@ -1,0 +1,8 @@
+F:\Net_C\NET101\BAI3_NHAP_XUAT\bin\Debug\BAI3_NHAP_XUAT.exe.config
+F:\Net_C\NET101\BAI3_NHAP_XUAT\bin\Debug\BAI3_NHAP_XUAT.exe
+F:\Net_C\NET101\BAI3_NHAP_XUAT\bin\Debug\BAI3_NHAP_XUAT.pdb
+F:\Net_C\NET101\BAI3_NHAP_XUAT\obj\Debug\BAI3_NHAP_XUAT.csproj.AssemblyReference.cache
+F:\Net_C\NET101\BAI3_NHAP_XUAT\obj\Debug\BAI3_NHAP_XUAT.csproj.SuggestedBindingRedirects.cache
+F:\Net_C\NET101\BAI3_NHAP_XUAT\obj\Debug\BAI3_NHAP_XUAT.csproj.CoreCompileInputs.cache
+F:\Net_C\NET101\BAI3_NHAP_XUAT\obj\Debug\BAI3_NHAP_XUAT.exe
+F:\Net_C\NET101\BAI3_NHAP_XUAT\obj\Debug\BAI3_NHAP_XUAT.pdb
